@@ -1,0 +1,10 @@
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\bin\Debug\MultipleChoiceQuiz.exe.config
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\bin\Debug\MultipleChoiceQuiz.exe
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\bin\Debug\MultipleChoiceQuiz.pdb
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.csprojAssemblyReference.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.Form1.resources
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.Properties.Resources.resources
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.csproj.GenerateResource.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.csproj.CoreCompileInputs.cache
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.exe
+C:\Users\21903851\Documents\Learning Programming\Mini Programs\MultipleChoiceQuiz\MultipleChoiceQuiz\obj\Debug\MultipleChoiceQuiz.pdb
